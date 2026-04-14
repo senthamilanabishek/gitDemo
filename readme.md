@@ -3,4 +3,4 @@ this is my game
 
 
 this is added on bug
-this is version 1
+this is version 2
